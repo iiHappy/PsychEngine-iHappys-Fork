@@ -1,0 +1,45 @@
+THINGS TO DO!!!!
+____________________
+
+Hardcode Camera Movement (gonna be in update 1.1)
+
+Add Controls Presets (gonna be in update 1.1)
+
+Add "Perfect!!!" Judgement (gonna be in update 1.1)
+
+Add a Custom Song in (like any other psych forks would do)
+
+Add some cool title thingy (gonna be in update 1.1)
+
+Our own custom icon bop! (gonna be in update 1.1)
+
+_____________________
+
+Stuff Done:
+
+Advance Flashing State
+
+Customize "FPS.hx"
+
+Added Judgement Counter
+
+Added Week 7 Note Splashes
+
+Added More Time Bar Settings!!
+_____________________
+
+SCRAPPED IDEAS :O
+
+Added a Warning when you first boot up the game (Flashing State works)
+
+Indie Cross Healthbar (that sucks to code in)
+
+_____________________
+
+IMPORTANT THING TO DO:
+
+your mother lmfao
+
+
+
+
