@@ -26,7 +26,7 @@ class ClientPrefs {
 	public static var camMove:Bool = true;
 	public static var hideHud:Bool = false;
 	public static var hideTime:Bool = false;
-	public static var colorBars:Bool = true;
+	public static var colorBars:Bool = false;
 	public static var noteOffset:Int = 0;
 	public static var arrowHSV:Array<Array<Int>> = [[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]];
 	public static var ghostTapping:Bool = true;

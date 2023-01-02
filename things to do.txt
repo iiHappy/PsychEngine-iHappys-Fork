@@ -9,7 +9,7 @@ Add "Perfect!!!" Judgement (gonna be in update 1.1)
 
 Add a Custom Song in (like any other psych forks would do)
 
-Add some cool title thingy (gonna be in update 1.1)
+Add some cool window title thingy (gonna be in update 1.1)
 
 Our own custom icon bop! (gonna be in update 1.1)
 
@@ -30,7 +30,7 @@ _____________________
 
 SCRAPPED IDEAS :O
 
-Added a Warning when you first boot up the game (Flashing State works)
+Added a Warning when you first boot up the game
 
 Indie Cross Healthbar (that sucks to code in)
 
