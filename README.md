@@ -1,5 +1,5 @@
 # Friday Night Funkin' - Happy Engine
-a fork, that's it. (NOTE: THIS WILL NOT SWITCH PSYCH VERISON UNTIL A MAJOR PSYCH UPDATE COMES OUT. THIS WILL FOR NOW STAY AT v0.6.3.)
+a fork, that's it. (NOTE: THIS WILL NOT SWITCH PSYCH VERISONS UNTIL A MAJOR PSYCH UPDATE COMES OUT. THIS WILL FOR NOW STAY AT v0.6.3.)
 
 # Friday Night Funkin' - Psych Engine
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier ////alternative to newbie coders.
